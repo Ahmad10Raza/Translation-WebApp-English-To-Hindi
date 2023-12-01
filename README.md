@@ -55,4 +55,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-### HuggingFcae [![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/)
+### HuggingFace [![Hugging Face's logo](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)](https://huggingface.co/)
